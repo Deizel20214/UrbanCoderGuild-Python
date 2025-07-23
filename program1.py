@@ -1,0 +1,6 @@
+name=input("what is your name") 
+print() 
+favoritcoler=input("what is your favorite color") 
+print("\n Hello,"+Name+"!") 
+print("Your favorite color" +favoritecoler +"!") 
+print("Lets start learning python together!")
